@@ -10,7 +10,7 @@ namespace DataAccessLayer.Repositories
 {
     public class CommentRepository : IGenericDal<Comment>
     {
-        public void Delet(Comment t)
+        public void Delete(Comment t)
         {
             throw new NotImplementedException();
         }
